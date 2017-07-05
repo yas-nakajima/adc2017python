@@ -34,7 +34,7 @@
 		- Jupyter notebookの使いかた
 		- IRAF(PyRAF)基本
 		- Numpy 基本
-		- PyFITS 基本
+		- astropy.io.fits 基本
 		- matplotlib 基本 (+ APLpy)
 
 - 2日目
@@ -47,7 +47,7 @@
 			- 自分の環境へのインストールに困っている
 			- こういうデータ処理・解析をPythonを用いて行いたいが、どうしたら良いか？ 
 
-**端末** : 基本的に天文データセンターの端末(Linux)を使用する。持ち込みノートPCで実習も可。その場合にはあらかじめ必要なソフトをインストールしておくこと。Python(3.5), Jupyter notebook, IRAF, PyRAF, Numpy, PyFITS, matplotlib, APLpy, ds9
+**端末** : 基本的に天文データセンターの端末(Linux)を使用する。持ち込みノートPCで実習も可。その場合にはあらかじめ必要なソフトをインストールしておくこと。Python(3.5), Jupyter notebook, IRAF, PyRAF, Numpy, astropy, matplotlib, APLpy, ds9
 
 #### 補足 : 
 
