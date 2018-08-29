@@ -1,5 +1,6 @@
-# 古い内容です。最新版は
-# https://gitlab.com/yas.nakajima/adc2018python
+## 古い内容です。最新版は
+## https://gitlab.com/yas.nakajima/adc2018python
+## にあります。
 
 
 
